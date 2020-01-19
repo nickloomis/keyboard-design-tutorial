@@ -1,4 +1,4 @@
-update=Sat 18 Jan 2020 08:44:36 PM PST
+update=Sat 18 Jan 2020 09:14:21 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=/home/nloomis/Projects/keyboard-design-tutorial/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid
+LibName34=/home/nloomis/Projects/keyboard-design-tutorial/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts
